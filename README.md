@@ -3,7 +3,7 @@
 <p align="center">
   <b>Health-tech builder &amp; founder</b> — shipping digital products at the intersection of <i>medicine, mind &amp; technology</i>.
   <br/>
-  Neurologist (Sp.N.) by training · I design, build and ship the whole stack myself.
+  Neurologist (Sp.N.) by training · vibe coder by practice — I ship full products by directing AI. 🤖
 </p>
 
 <p align="center">
@@ -17,9 +17,10 @@
 
 ### 🚀 About
 
-I'm a neurologist who builds software. I turn clinical insight into shipped products — EMR systems, AI medical transcription, neuro-rehabilitation tools, and longevity/wellness platforms — usually as a solo full-stack founder.
+I'm a neurologist who ships software by **vibe coding** — turning clinical insight into real products by directing AI agents instead of hand-writing every line. EMR systems, AI medical transcription, neuro-rehabilitation tools, longevity/wellness platforms — built solo, full-stack, end to end.
 
 - 🧠 **Domain:** clinical neurology, neurorehabilitation, longevity & brain health
+- 🤖 **How I build:** vibe coding — AI-assisted, agent-driven development (Claude Code & friends)
 - 🛠️ **Building:** AgeAtlas, Digipad, NeuroBali / Neurorestorasi, clinic EMR
 - ⚡ **Way of working:** ship fast, full-stack, real users — not toy projects
 - 🌏 **Based in:** Indonesia
@@ -38,6 +39,14 @@ I'm a neurologist who builds software. I turn clinical insight into shipped prod
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**🤖 AI &amp; vibe-coding workflow**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-AI--assisted-FF6B6B?style=for-the-badge)
 
 ---
 

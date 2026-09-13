@@ -9,6 +9,12 @@
   <a href="mailto:arthamegayasa@ihc.id"><b>Get in touch</b></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/arthamegayasa/arthamegayasa/actions/workflows/profile-checks.yml"><img src="https://github.com/arthamegayasa/arthamegayasa/actions/workflows/profile-checks.yml/badge.svg?branch=main" alt="Profile checks: live validation status" /></a>
+  <a href="https://github.com/arthamegayasa/nam-book-studio/actions/workflows/validate.yml"><img src="https://github.com/arthamegayasa/nam-book-studio/actions/workflows/validate.yml/badge.svg?branch=main" alt="Nam Book Studio: live validation status" /></a>
+  <a href="https://github.com/arthamegayasa/Wuxia-Dungeon-RPG/actions/workflows/ci.yml"><img src="https://github.com/arthamegayasa/Wuxia-Dungeon-RPG/actions/workflows/ci.yml/badge.svg?branch=main" alt="Wuxia Dungeon RPG: live test and build status" /></a>
+</p>
+
 ## A clinician's perspective. A builder's mindset.
 
 I'm **Artha**, a neurologist based in **Bali, Indonesia**, and the founder of **[Digipad](https://www.digipad.id)**. I build software at the intersection of medicine, AI, and everyday work: clinical documentation, patient-facing tools, and systems that make complex workflows easier to use.

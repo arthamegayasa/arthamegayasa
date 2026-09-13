@@ -1,92 +1,80 @@
-<h1 align="center">Hi, I'm Artha Megayasa 👋</h1>
-
 <p align="center">
-  <b>Health-tech builder &amp; founder</b> — shipping digital products at the intersection of <i>medicine, mind &amp; technology</i>.
-  <br/>
-  Neurologist (Sp.N.) by training · vibe coder by practice — I ship full products by directing AI. 🤖
+  <img src="./assets/profile-banner.svg" width="100%" alt="Artha Megayasa — Neurologist. Founder. Product builder. From clinical insight to useful software." />
 </p>
 
 <p align="center">
-  <a href="https://arthamegayasa.com"><img src="https://img.shields.io/badge/Website-arthamegayasa.com-0A66C2?style=for-the-badge&logo=astro&logoColor=white" alt="Website"/></a>
-  <a href="https://digipad.id"><img src="https://img.shields.io/badge/Digipad-digipad.id-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Digipad"/></a>
-  <a href="https://neurorestorasi.id"><img src="https://img.shields.io/badge/Neurorestorasi-neurorestorasi.id-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Neurorestorasi"/></a>
-  <a href="mailto:arthamegayasa@ihc.id"><img src="https://img.shields.io/badge/Email-arthamegayasa@ihc.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.arthamegayasa.com"><b>Writing &amp; ideas</b></a> &nbsp; / &nbsp;
+  <a href="https://www.digipad.id"><b>Digipad studio</b></a> &nbsp; / &nbsp;
+  <a href="https://neurorestorasi.id"><b>Clinical practice</b></a> &nbsp; / &nbsp;
+  <a href="mailto:arthamegayasa@ihc.id"><b>Get in touch</b></a>
 </p>
+
+## A clinician's perspective. A builder's mindset.
+
+I'm **Artha**, a neurologist based in **Bali, Indonesia**, and the founder of **[Digipad](https://www.digipad.id)**. I build software at the intersection of medicine, AI, and everyday work: clinical documentation, patient-facing tools, and systems that make complex workflows easier to use.
+
+My clinical interests span **neurology, neurorehabilitation, brain health, and longevity**. I bring that perspective into product design, using AI agents to help turn an idea into working software. I also make room for creative experiments, from interactive fiction to illustrated books.
+
+## Selected public work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / CLINICAL AI</sub>
+      <h3><a href="https://github.com/arthamegayasa/bih-ai-transcription">BIH AI Transcription</a></h3>
+      <p>An interactive documentation demo that turns mock Indonesian consultations into draft SOAP notes.</p>
+      <p><code>JavaScript</code> <code>Web Speech API</code> <code>Claude</code></p>
+      <a href="https://github.com/arthamegayasa/bih-ai-transcription">Explore the demo code →</a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / AGENT WORKFLOWS</sub>
+      <h3><a href="https://github.com/arthamegayasa/nam-book-studio">Nam Book Studio</a></h3>
+      <p>An evidence-aware agent skill suite for researching, writing, and illustrating books in English and Indonesian.</p>
+      <p><code>Python</code> <code>Agent Skills</code> <code>Publishing</code></p>
+      <a href="https://github.com/arthamegayasa/nam-book-studio">Explore the toolkit →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / HEALTHCARE ON THE WEB</sub>
+      <h3><a href="https://github.com/arthamegayasa/MettyCare-web">MettyCare</a></h3>
+      <p>A bilingual home care website for Bali, with responsive layouts and direct WhatsApp contact flows.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/arthamegayasa/MettyCare-web">Explore the website code →</a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / INTERACTIVE WORLDS</sub>
+      <h3><a href="https://github.com/arthamegayasa/Wuxia-Dungeon-RPG">Wuxia Dungeon RPG</a></h3>
+      <p>A browser-based cultivation RPG with branching choices, procedural narrative, and deterministic game systems.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Vite</code></p>
+      <a href="https://github.com/arthamegayasa/Wuxia-Dungeon-RPG">Explore the game →</a>
+    </td>
+  </tr>
+</table>
+
+**Also exploring:** [Brainwave Audio Entrainment](https://github.com/arthamegayasa/brainwave-audio-entrainment), a cross-platform audio app for binaural and isochronic listening sessions.
+
+## How I build
+
+**Understand the workflow → Build a focused version → Test and refine.**
+
+I use AI-assisted development to connect domain knowledge with implementation. My role spans defining the problem, shaping the experience, directing agents, and reviewing what gets built.
+
+| Layer | Tools I work with |
+| :--- | :--- |
+| Interfaces | TypeScript · React · Next.js · Astro · Tailwind CSS |
+| Data & delivery | Node.js · PostgreSQL · Supabase · Vercel |
+| AI & automation | Claude Code · Codex · Python · Agent Skills |
+
+## Beyond the repositories
+
+- **[Digipad](https://www.digipad.id)** — my studio for software, AI agents, and workflow automation.
+- **[Neurorestorasi](https://neurorestorasi.id)** — my clinical practice and resources for patients and families.
+- **[arthamegayasa.com](https://www.arthamegayasa.com)** — writing on brain health, longevity, and technology.
 
 ---
 
-### 🚀 About
-
-I'm a neurologist who ships software by **vibe coding** — turning clinical insight into real products by directing AI agents instead of hand-writing every line. EMR systems, AI medical transcription, neuro-rehabilitation tools, longevity/wellness platforms — built solo, full-stack, end to end.
-
-- 🧠 **Domain:** clinical neurology, neurorehabilitation, longevity & brain health
-- 🤖 **How I build:** vibe coding — AI-assisted, agent-driven development (Claude Code & friends)
-- 🛠️ **Building:** AgeAtlas, Digipad, NeuroBali / Neurorestorasi, clinic EMR
-- ⚡ **Way of working:** ship fast, full-stack, real users — not toy projects
-- 🌏 **Based in:** Indonesia
-
----
-
-### 🧰 Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**🤖 AI &amp; vibe-coding workflow**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-AI--assisted-FF6B6B?style=for-the-badge)
-
----
-
-### 🏗️ Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[AgeAtlas](https://github.com/arthamegayasa/ageatlas-web)** | Longevity & brain-health platform (web + app) | Next.js · TypeScript |
-| **[Digipad](https://digipad.id)** | Health × Mind × Wealth digital products suite | TypeScript |
-| **[Neurorestorasi](https://neurorestorasi.id)** | Neuro-rehabilitation web platform | Astro |
-| **[EMR Pemuda](https://github.com/arthamegayasa/EMR_Pemuda)** | Clinic Electronic Medical Records system | Next.js 14 · Supabase |
-| **[BIH AI Transcription](https://github.com/arthamegayasa/bih-ai-transcription)** | AI medical transcription demo | AI · Web |
-| **[Brainwave Optimizer](https://github.com/arthamegayasa/Brainwave-Optimizer)** | Binaural beats & isochronic tones for brain entrainment | Audio · Web |
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arthamegayasa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthamegayasa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <b>Have a healthcare workflow or a product idea worth building?</b><br />
+  <a href="mailto:arthamegayasa@ihc.id">Let's connect</a> &nbsp; · &nbsp; <a href="https://www.digipad.id">Explore Digipad</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthamegayasa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthamegayasa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</p>
-
----
-
-### 📫 Connect
-
-<p align="center">
-  <a href="https://arthamegayasa.com">🌐 arthamegayasa.com</a> &nbsp;·&nbsp;
-  <a href="https://digipad.id">🟣 digipad.id</a> &nbsp;·&nbsp;
-  <a href="https://neurorestorasi.id">🟢 neurorestorasi.id</a> &nbsp;·&nbsp;
-  <a href="mailto:arthamegayasa@ihc.id">✉️ Email</a>
-</p>
-
-<p align="center"><i>Bridging the clinic and the codebase, one product at a time.</i></p>

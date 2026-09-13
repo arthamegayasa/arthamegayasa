@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Artha Megayasa — Neurologist, founder, and product builder</title>
+  <desc id="description">A navy and teal profile banner connecting medicine, AI, and software. From clinical insight to useful software.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081923"/>
+      <stop offset="1" stop-color="#0C2632"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(1050 180) rotate(90) scale(234 315)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#26CBB9" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#26CBB9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" x1="857" y1="112" x2="1193" y2="254" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6CE7D2"/>
+      <stop offset="1" stop-color="#57B5D7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" rx="20" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#halo)"/>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="19.5" stroke="#78BFC8" stroke-opacity="0.12"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="64" y="58" width="4" height="17" rx="2" fill="#72E1CC"/>
+    <text x="83" y="71" fill="#8ED7D0" font-size="14" font-weight="600" letter-spacing="2.9">MEDICINE / AI / SOFTWARE</text>
+    <text x="60" y="166" fill="#F4FAFB" font-size="68" font-weight="650" letter-spacing="-2.7">Artha Megayasa</text>
+    <text x="64" y="213" fill="#BDCCD4" font-size="25" font-weight="400" letter-spacing="0.05">Neurologist. Founder. Product builder.</text>
+    <path d="M64 266H116" stroke="#64D2C2" stroke-width="2"/>
+    <text x="64" y="306" fill="#8FAAB6" font-size="18" font-weight="400" letter-spacing="0.15">From clinical insight to useful software.</text>
+  </g>
+
+  <!-- A quiet network: clinical understanding becomes connected systems. -->
+  <g stroke="#7CDEE0" stroke-opacity="0.10">
+    <circle cx="1044" cy="180" r="128"/>
+    <circle cx="1044" cy="180" r="88"/>
+    <path d="M898 180H1190M1044 34V326" stroke-dasharray="2 9"/>
+  </g>
+  <path d="M946 97A128 128 0 0 1 1137 92M1160 234A128 128 0 0 1 1028 307" stroke="#6CE7D2" stroke-opacity="0.34" stroke-width="1.5" stroke-linecap="round"/>
+  <g stroke="url(#signal)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M863 129H910L952 171H991M899 251H940L976 215H1017M951 78V105L1009 163M1044 180V117L1081 80M1044 180H1101L1147 134H1197M1044 180L1093 229H1123L1163 269M1044 180L1044 260L1014 290" stroke-opacity="0.64"/>
+    <path d="M991 171L1044 180L1017 215L991 171M1009 163L1044 180M1101 180L1093 229M1044 117L1101 180" stroke-opacity="0.39"/>
+  </g>
+  <g fill="#102F3A" stroke="#62CDBC" stroke-width="1.5">
+    <circle cx="863" cy="129" r="5"/>
+    <circle cx="899" cy="251" r="5"/>
+    <circle cx="951" cy="78" r="5"/>
+    <circle cx="1081" cy="80" r="5"/>
+    <circle cx="1197" cy="134" r="5"/>
+    <circle cx="1163" cy="269" r="5"/>
+    <circle cx="1014" cy="290" r="5"/>
+  </g>
+  <g fill="#90DDCF">
+    <circle cx="991" cy="171" r="3.5"/>
+    <circle cx="1017" cy="215" r="3.5"/>
+    <circle cx="1009" cy="163" r="3"/>
+    <circle cx="1044" cy="117" r="3.5"/>
+    <circle cx="1101" cy="180" r="3.5"/>
+    <circle cx="1093" cy="229" r="3.5"/>
+  </g>
+  <circle cx="1044" cy="180" r="23" fill="#71E2CE" fill-opacity="0.06" stroke="#71E2CE" stroke-opacity="0.25"/>
+  <circle cx="1044" cy="180" r="12" fill="#133D46" stroke="#80E6D2" stroke-width="1.5"/>
+  <circle cx="1044" cy="180" r="4" fill="#A3F3E0"/>
+</svg>

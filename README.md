@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Artha Megayasa — Neurologist. Founder. Product builder. From clinical insight to useful software." />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Nyoman Artha Megayasa — Neurologist. Founder. Product builder. From clinical insight to useful software." />
 </p>
 
 <p align="center">
@@ -16,9 +16,13 @@
   <a href="https://github.com/arthamegayasa/ageatlas/actions/workflows/validate.yml"><img src="https://github.com/arthamegayasa/ageatlas/actions/workflows/validate.yml/badge.svg?branch=main" alt="AgeAtlas: live validation status" /></a>
 </p>
 
-## A clinician's perspective. A builder's mindset.
+# Nyoman Artha Megayasa
 
-I'm **Artha**, a neurologist based in **Bali, Indonesia**, and the founder of **[Digipad](https://www.digipad.id)**. I build software at the intersection of medicine, AI, and everyday work: clinical documentation, patient-facing tools, and systems that make complex workflows easier to use.
+**A clinician's perspective. A builder's mindset.**
+
+I'm **Nyoman Artha Megayasa**, a neurologist based in **Bali, Indonesia**, and the founder of **[Digipad](https://www.digipad.id)**. I build software at the intersection of medicine, AI, and everyday work: clinical documentation, patient-facing tools, and systems that make complex workflows easier to use.
+
+Saya dokter spesialis saraf di Bali dan pendiri Digipad yang mengembangkan AI medis dan perangkat lunak klinis, termasuk **[Medical AI Scribe](https://github.com/arthamegayasa/medical-ai-scribe)** dan **[AgeAtlas](https://github.com/arthamegayasa/ageatlas)**.
 
 My clinical interests span **neurology, neurorehabilitation, brain health, and longevity**. I bring that perspective into product design, using AI agents to help turn an idea into working software. I also make room for creative experiments, from interactive fiction to illustrated books.
 
